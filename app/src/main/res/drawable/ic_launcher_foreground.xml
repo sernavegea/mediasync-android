@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Nube -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M74,48.5C72.6,40.2 65.4,34 56.8,34C50,34 44.1,37.9 41.2,43.6C34.2,44.4 28.8,50.3 28.8,57.5C28.8,65.2 35.1,71.5 42.8,71.5H73C79.4,71.5 84.6,66.3 84.6,59.9C84.6,53.8 79.9,48.9 74,48.5Z"/>
+    <!-- Flecha -->
+    <path android:fillColor="#4F8CFF"
+        android:pathData="M56.5,44L46,55H52.5V65H60.5V55H67Z"/>
+</vector>
